@@ -4,7 +4,7 @@ This is Gabriella Rodriguez Portfolio website, A Spanish Web Developer. This Web
 
 ## Website link
 
-[GabriellaRodriguez.io](https://raniamhelmy.github.io/gabriellarodriguezportfolio/)
+[GabriellaRodriguez.io](https://raniamhelmy.github.io/GabriellaRodriguezPortfolio/)
 
 ## Technologies used to build this project
 
